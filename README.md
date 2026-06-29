@@ -21,7 +21,7 @@ The design represents a direct hardware optimization of the original [ESD_uwb Tr
 
 ## Technical Specifications & Capabilities
 
-* **Ranging Protocol:** 1Hz Double-Sided Two-Way Ranging (DS-TWR) operating on UWB Channel 5.
+* **Ranging Protocol:** Programmable Double-Sided Two-Way Ranging (DS-TWR) operating on UWB Channel 5.
 * **Proximity Perimeter:** Monitors hardware ranging thresholds, executing asset alert routines immediately upon breach of a strict 30-meter boundary.
 * **Alert Mechanism:** High-output Piezo buzzer driven using a **6.6V Differential Drive configuration** toggled via microcontroller hardware timers on pins `PB1` and `PB2` to achieve maximum acoustic output from a 3.3V rail.
 * **Host Interconnect:** High-speed SPI1 hardware bus lines routed systematically to maintain clean transmission line matching and minimal signal cross-talk.
