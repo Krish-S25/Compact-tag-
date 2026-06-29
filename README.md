@@ -5,6 +5,7 @@ This project focuses on the design of a high-performance, ultra-thin asset prote
 
 The design represents a direct hardware optimization of the original [ESD_uwb Tracking System](https://github.com/Krish-S25/ESD_uwb). While the original development iteration validated room-scale UWB tracking using a broad footprint and discrete evaluation modules, this configuration consolidates the architecture into an ultra-low-profile 4-layer PCB utilizing an integrated System-in-Package (SiP), a dedicated low-profile bulk capacitor power delivery network, and an optimized buck-boost regulation topology.
 
+**The work showed in this repo is done by 1 person only and not the entire team.**
 ---
 
 ## Architectural Evolution
