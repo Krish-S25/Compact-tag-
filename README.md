@@ -52,6 +52,8 @@ Integrating low-power Bluetooth (2.4GHz) and high-frequency Ultra-Wideband (6.5G
 
 ---
 
+Send Mail to **newk2505@gmail.com** for further inquiry
+
 ## PCB Layout Constraints (Manufacturing Rules)
 
 The physical board is validated against the following electrical and mechanical constraints to guarantee clean trace signals and reliable fabrication:
