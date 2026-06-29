@@ -11,10 +11,10 @@ This project represents the direct architectural evolution of the original [ESD_
 
 | Design Metric | Original System (ESD_uwb) | Next-Gen Sticker Tag (30TH) |
 | :--- | :--- | :--- |
-| **Microcontroller Core** | STM32G0 Series (Discrete MCU) | STM32WBA5MMG (Ultra-low-power BLE 5.4 SiP Module) |
-| **UWB RF Module** | Ai-Thinker BU03 (Standard Pinout) | Ai-Thinker BU03 (Optimized Bus Layout Interface) |
-| **Power Source** | Bench / External Regulation | CR2032 Coin Cell via sewn Plated Through-Holes (PTH) |
-| **Power Regulation** | Low Power Linear / Basic LDO | TPS63900 High-Efficiency Buck-Boost Converter |
+| **Microcontroller Core** | ESP32 Devkit v1 | STM32WBA5MMG (Ultra-low-power BLE 5.4 SiP Module)    |
+| **UWB RF Module** | Ai-Thinker BU03 (Standard Pinout) | Ai-Thinker BU03 / Qorvo DWM3000 (Optimized Bus Layout Interface) |
+| **Power Source** | USB / LiPo | CR2032 Coin Cell via TPS63900 |
+| **Power Regulation** | AMS1117 / MCP1700 | TPS63900 Buck-Boost Converter |
 | **Form Factor** | Desktop Development Board Target | Ultra-low profile, 4-layer "Sticker" PCB Layout |
 
 ---
