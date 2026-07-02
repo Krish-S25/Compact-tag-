@@ -1,4 +1,4 @@
-# Anti-Theft Tracking CompacTag
+# Anti-Theft Tracking Compact tag
 
 ## Project Overview
 This project focuses on the design of a high-performance, ultra-thin asset protection and anti-theft tracking tag. The objective is to implement commercial-grade Ultra-Wideband (UWB) indoor positioning and proximity tracking capabilities within a highly compact, low-profile tracker envelope. 
