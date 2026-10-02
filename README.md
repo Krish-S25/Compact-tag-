@@ -17,7 +17,7 @@ The design represents a direct hardware optimization of the original [ESD_uwb Tr
 | **UWB RF Module** | Ai-Thinker BU03 (Standard Pinout) | Ai-Thinker BU03 / Qorvo DWM3000 (Optimized Bus Interface) |
 | **Power Source** | USB / LiPo Battery | CR2032 Coin Cell |
 | **Power Regulation** | AMS1117 / MCP1700 Linear LDOs | TPS63900 High-Efficiency Buck-Boost Converter |
-| **Form Factor** | Desktop Development Board Target | Ultra-low profile, 4-layer "Sticker" PCB Layout |
+| **Form Factor** | Desktop Development Board Target | Ultra-low profile, 4-layer PCB Layout |
 
 ---
 
